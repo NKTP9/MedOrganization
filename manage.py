@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 """Django's command-line utility for administrative tasks."""
 """Hi i am Vera """
+"""Hi i am Nikita """
 import os
 import sys
 
